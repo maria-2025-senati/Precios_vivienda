@@ -1,4 +1,4 @@
-## Conclusiones personales
+Conclusiones personales
 
 - Aprendí a construir y entrenar una red neuronal usando TensorFlow/Keras y comprendí la importancia del preprocesamiento (escalado, limpieza de NaNs).
 - Pude visualizar y analizar los errores de predicción taravez de los graficos, lo que me sirvio de mucho al momento de analizar.
